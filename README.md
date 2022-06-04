@@ -13,8 +13,8 @@ This project's code for Warnsdorff's Algorithm is from GeeksForGeeks.org and the
 1. User privilege to choose first cell of Knight
 2. Numbers embedded in cells after each jump
 3. Knight Piece icon to depict realistic Knight Piece jumps
-4. Buttons in GridLayout with configurated colors to complement the Knight Piece icon.
-5. Use of Warnsdorff's Algorithm to provide a closed-type Knight's Tour solution.
+4. Buttons in GridLayout with configurated colors to complement the Knight Piece icon
+5. Use of Warnsdorff's Algorithm to provide a closed-type Knight's Tour solution
 
 ## Screenshot
 <img src="ScreenShot_Knight.png" alt="Screenshot of the solution in action">
